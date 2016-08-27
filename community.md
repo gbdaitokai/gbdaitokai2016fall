@@ -1,3 +1,5 @@
 * [天領倉敷Scala](http://tkscala.doorkeeper.jp/)
 * [岡山Gitユーザ会](http://okagit.github.io/)
 * [Okayama IT Engineers Community](http://oitec.net/)
+* [岡山Rubyコミュニティ](http://okaruby.connpass.com/)
+* [Atlassian ユーザーグループ 中国地方](http://augca.connpass.com/)
