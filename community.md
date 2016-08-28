@@ -3,3 +3,4 @@
 * [Okayama IT Engineers Community](http://oitec.net/)
 * [岡山Rubyコミュニティ](http://okaruby.connpass.com/)
 * [Atlassian ユーザーグループ 中国地方](http://augca.connpass.com/)
+* [GDG中国](https://developers.google.com/groups/chapter/110177155288519600576/)
