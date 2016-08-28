@@ -51,4 +51,4 @@ Kazutoshi Takemoto(@f97one)
 ## 概要
 
 「モバイルアプリのクロスプラットフォーム開発」といえば、ちょっと前までは [Apache Cordova](https://cordova.apache.org/) くらいしか選択肢はありませんでした。  
-今回は、最近出てきた開発プラットフォームの一つである [flutter](https://flutter.io/) 
+今回は、最近出てきた開発プラットフォームの一つである [flutter](https://flutter.io/) について、少しお話できればと思います。
